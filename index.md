@@ -1,7 +1,3 @@
-# Richard Godden
-
-![cover photo](/home_pictures/cover_photo.jpg)
-
 ## Graduate student: Masters in computer science Columbia
 
 I am pursuing my masters in comupters science at Columbia following the machine learning track. I graduated from Cambridge University in 2009 studying mathematics. I have worked in a wide variety of industries from manufacturing, electronics, energy supply. I am interested in computational neuro science and machine learning especially looking at the links between the two fields to investigate how we learn from data presented to us by our sensory organs and how we can use this to improve machine learning algorithms.
