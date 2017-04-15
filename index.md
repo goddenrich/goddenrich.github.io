@@ -10,7 +10,7 @@ I am pursuing my masters in comupters science at Columbia following the machine 
  - Neural netwrks and deep learning - ECBME4040 - [Zoran Kostic](https://sites.google.com/site/mobiledcc/people/zk-my-page/)
  - Computational neuro-science: circuits in the brain - BMEBW4020 - [Aurel Lazar](http://www.ee.columbia.edu/~aurel//)
 
-## I am taking the following classes for my MS
+## I have taken the following online classes
 
 * Stanford Uiversity:
   * Algorithms Design and Analysis I
@@ -27,6 +27,6 @@ I am pursuing my masters in comupters science at Columbia following the machine 
   * The brain and space
 
 
-## I am taking the following classes for my MS
+## Other things
 
 I dance salsa, bachata, kizomba, brazilian zouk and bellydancing. I am an artist particularly figure drawing and painting and very occasionally dust off my saxophone and clarinet.
