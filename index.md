@@ -5,6 +5,10 @@ I am pursuing my masters in comupters science at Columbia following the machine 
 ---
 ## I am taking the following classes for my MS
 
+ - Advanced Machine learning - COMSW4772 - [Lior Horesh](http://researcher.watson.ibm.com/researcher/view.php?person=us-lhoresh) & Julie E. Novak
+ - Advanced Programing COMSW3157 - [Jae Woo Lee](http://www.cs.columbia.edu/~jae/)
+ - Deep Learning for Computer Vision, Speech, and Language [Liangliang Cao](http://llcao.net/) & [Xiaodong Cui](http://researcher.watson.ibm.com/researcher/view.php?person=us-cuix)
+ - Introduction to databases - COMS4111 - [Alex Biliris](http://www.cs.columbia.edu/~biliris/)
  - Machine learning - COMSW4771 - [Daniel Hsu](http://www.cs.columbia.edu/~djhsu/)
  - Analysis of algorithms I - CSORW4231 - [Alexandr Andoni](http://www.mit.edu/~andoni/)
  - Neural netwrks and deep learning - ECBME4040 - [Zoran Kostic](https://sites.google.com/site/mobiledcc/people/zk-my-page/)
