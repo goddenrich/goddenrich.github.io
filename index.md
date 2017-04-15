@@ -15,19 +15,19 @@ I am pursuing my masters in comupters science at Columbia following the machine 
 
 ## I am taking the following classes for my MS
 
- - Stanford Uiversity:
-        - Algorithms Design and Analysis I
-        - Machine Learning
- - University of Toronto:
-        - Neural Networks for machine learning
- - University of Washington:
-        - Introduction to Data Science
-        - Machine learning specialisation
-        - Computational Neuroscience
-        - High performance Scientific Computing
- - Duke University:
-        - Data analysis and statistical inverence
-        - The brain and space
+- Stanford Uiversity:
+..* Algorithms Design and Analysis I
+..* Machine Learning
+- University of Toronto:
+..* Neural Networks for machine learning
+- University of Washington:
+..* Introduction to Data Science
+..* Machine learning specialisation
+..* Computational Neuroscience
+..* High performance Scientific Computing
+- Duke University:
+..* Data analysis and statistical inverence
+..* The brain and space
 
 ## I am taking the following classes for my MS
 
