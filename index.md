@@ -5,7 +5,7 @@ I am pursuing my masters in comupters science at Columbia following the machine 
 ---
 ## I am taking the following classes for my MS
 
- - Operating Systems - COMSW4118 - [Jason Nieh](http://www.cs.columbia.edu/~nieh/)
+ - Operating Systems - [Jason Nieh](http://www.cs.columbia.edu/~nieh/)
  - Big data analytics - [Dr. Ching-Yung Lin](https://www.ee.columbia.edu/~cylin/course/bigdata/)
  - Bayesian machine learning - [John Paisley](http://www.columbia.edu/~jwp2128)
  - Advanced Machine learning - [Lior Horesh](http://researcher.watson.ibm.com/researcher/view.php?person=us-lhoresh) & Julie E. Novak
@@ -19,10 +19,10 @@ I am pursuing my masters in comupters science at Columbia following the machine 
 
 ## Projects I have done:
 
- - Written a weighted round robin scheduling class with idle cpu balancing in the linux kernel
- - Written a basic web server from scratch in C which serves html to a browser and allows lookups to a backend database.
- - [Fake news challenge](https://goddenrich.github.io/aml-fnc/): trained various classifiers including LSTMs, SVD, SVM and Ensemble models to determining the stance between an excerpt from a news article and a headline.
- - [Neural style transfer](https://yogeshg.github.io/artistic-styles/): Implemented and trained VGG-19 in theano and used it to implement the technique proposed by [Gatys et al](http://ieeexplore.ieee.org/document/7780634/)
+ * Written a weighted round robin scheduling class with idle cpu balancing in the linux kernel
+ * Written a basic web server from scratch in C which serves html to a browser and allows lookups to a backend database.
+ * [Fake news challenge](https://goddenrich.github.io/aml-fnc/): trained various classifiers including LSTMs, SVD, SVM and Ensemble models to determining the stance between an excerpt from a news article and a headline.
+ * [Neural style transfer](https://yogeshg.github.io/artistic-styles/): Implemented and trained VGG-19 in theano and used it to implement the technique proposed by [Gatys et al](http://ieeexplore.ieee.org/document/7780634/)
 
 ## I have taken the following online classes
 
