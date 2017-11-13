@@ -23,8 +23,8 @@ I am pursuing my masters in comupters science at Columbia following the machine 
    * email me to request access to the private github repo
  * Written a basic web server from scratch in C which serves html to a browser and allows lookups to a backend database.
    * email me to request access to the private github repo
- * [Fake news challenge](https://goddenrich.github.io/aml-fnc/): trained various classifiers including LSTMs, SVD, SVM and Ensemble models to determining the stance between an excerpt from a news article and a headline.
- * [Music styles](https://goddenrich.github.io/music-styles/): learning embeddings for chords based on word2vec skipgram techniques and using them to classify musical styles from midi files.
+ * [Fake news challenge](https://goddenrich.github.io/aml-fnc/index.html): trained various classifiers including LSTMs, SVD, SVM and Ensemble models to determining the stance between an excerpt from a news article and a headline.
+ * [Music styles](https://goddenrich.github.io/music-styles/index.html): learning embeddings for chords based on word2vec skipgram techniques and using them to classify musical styles from midi files.
  * [Neural style transfer](https://yogeshg.github.io/artistic-styles/): Implemented and trained VGG-19 in theano and used it to implement the technique proposed by [Gatys et al](http://ieeexplore.ieee.org/document/7780634/)
 
 ## I have taken the following online classes
