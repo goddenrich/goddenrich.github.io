@@ -27,6 +27,7 @@ E2V Technologies Plc: Continuous Improvement Champion and Analyst
 Havelock Europa Plc: Associate, Operations
 * Time log: Automated the time log booking on contracts within CIMPAC system eliminating manual task
 * On-time Delivery & QA: Managed a team of 14 to analyse failures, implementing preventative process.
+
 ---
 ## Classes:
 
@@ -73,7 +74,7 @@ Havelock Europa Plc: Associate, Operations
   * Data analysis and statistical inference
   * The brain and space
 
-
+---
 ## Other things
 
 I dance salsa, bachata, kizomba and brazilian zouk. I am an artist particularly figure drawing and painting and very occasionally dust off my saxophone and clarinet.
