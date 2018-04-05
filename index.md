@@ -11,7 +11,7 @@ I graduated from Cambridge University in 2009 having studied Mathematics with a 
 ---
 ## Experience:
  Glemore Gas: Technical Manager
-* Petra: Identied opportunities for oil field development using production and geological data, Developed modules within geological analysis systems to streamline work flows.
+* Petra: Identified opportunities for oil field development using production and geological data, Developed modules within geological analysis systems to streamline work flows.
 * Sharepoint online: Implemented sharepoint platform for business
 
 Ebico Oxford: Commercial Projects Manager
@@ -45,7 +45,7 @@ Havelock Europa Plc: Associate, Operations
 
 ## Projects:
 
- * Linux development: Implemented a weighted round robin scheduler with load balancing, a filesystem to track gps and created system calls to inspect the process graph, wake processes on motions and expose virtual-physical memory maps.
+ * Linux development: Implemented a weighted round robin scheduler with load balancing, a filesystem to track gps and created system calls to inspect the process graph, wake processes on motions and expose virtual-physical memory maps.
  * [Artistic style transfer](https://github.com/yogeshg/artistic-styles): Implemented a neural network to transfer artistic style in theano.
  * Passenger screening: Detected items of contraband/weapons from 3d scans of passengers with 99% accuracy using deep residual neural networks.
  * Web server: Built a web server from scratch in C hosting a database including creating linked list data-structures, database reading and writing, network communications and front end html.
