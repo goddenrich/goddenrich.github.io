@@ -56,7 +56,7 @@ Havelock Europa Plc: Associate, Operations
 ## Technical Skills
 
  * Languages: Python, C, C++, SQL
- * Technologies: Tensorflow, Theano, Haddop, Spark, Linux, AWS, Google Cloud
+ * Technologies: Tensorflow, Theano, Hadoop, Spark, Linux, AWS, Google Cloud
 
 ## I have taken the following online classes
 
