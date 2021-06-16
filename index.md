@@ -1,15 +1,13 @@
-## Education:
-
-Columbia University: Masters of Science in Computer Science
-
-I recently graduated from my masters in computers science at Columbia. I was particularly interested in machine learning including deep learning but also gained a passion for operating systems. I studied computational neuroscience to get a better understanding of the algorithms in the brain.
-
-University of Cambridge: MA, Mathematics
-
-I graduated from Cambridge University in 2009 having studied Mathematics with a particular focus on statistics. Between then and my masters I worked for seven years in a wide variety of technical and business roles in industries from manufacturing, electronics to energy supply.
-
----
 ## Experience:
+ Throught Machine: Tech Lead Manager, Developer Experience
+
+Responsible for the systems which get code from a developers machine to delivered ready for installation. We have an engineering department of over 300 developers contributing to a monorepo practicing continuous integration. We develop mainly in golang and deploy our microservice systems in kubernetes. Some of the main systems my team mage are:
+* Woodhouse: an in house distributed scalable CI/CD system written in golang deployed with kubernetes which paralelises the tasks of building and testing our repo and vault our microservice product.
+* [Metttle](https://github.com/thought-machine/please-servers): an in house distributed build system which remotely runs builds and tests on hundreds of workers. Running 3 million tests a day as part of our CI process.
+* [Phabricator](https://github.com/phacility/phabricator): The application we use for code reviews. We recently migrated our clustered self hosted instance to kubernetes automating the management of the component nodes.
+* Cromwell: An in house system for automating the process of promoting versions of our product [Vault](https://thoughtmachine.net/vault) through our environments to production.
+* Aftermath: An in house test reporting system which processes and analyses the 3 million tests we run daily providing reports and automating tasks like highlighting flaky tests.
+
  Glemore Gas: Technical Manager
 * Petra: Identified opportunities for oil field development using production and geological data, Developed modules within geological analysis systems to streamline work flows.
 * Sharepoint online: Implemented sharepoint platform for business
@@ -29,6 +27,17 @@ Havelock Europa Plc: Associate, Operations
 * On-time Delivery & QA: Managed a team of 14 to analyse failures, implementing preventative process.
 
 ---
+## Education:
+
+Columbia University: Masters of Science in Computer Science
+
+I graduated from my masters in computers science at Columbia. I was particularly interested in machine learning including deep learning but also gained a passion for systems development which guided my choice to become a software engineer rather than data scientist. I studied computational neuroscience to get a better understanding of the algorithms in the brain.
+
+University of Cambridge: MA, Mathematics
+
+I graduated from Cambridge University in 2009 having studied Mathematics with a particular focus on statistics. Between then and my masters I worked for seven years in a wide variety of technical and business roles in industries from manufacturing, electronics to energy supply.
+
+---
 ## Classes:
 
  - Operating Systems - [Jason Nieh](http://www.cs.columbia.edu/~nieh/)
@@ -46,7 +55,7 @@ Havelock Europa Plc: Associate, Operations
 ## Projects:
 
  * Linux development: Implemented a weighted round robin scheduler with load balancing, a filesystem to track gps and created system calls to inspect the process graph, wake processes on motions and expose virtual-physical memory maps.
- * [Artistic style transfer](https://github.com/yogeshg/artistic-styles): Implemented a neural network to transfer artistic style in theano.
+ * [Artistic style transfer](https://github.com/yogeshg/artistic-styles) Implemented a neural network to transfer artistic style in theano.
  * Passenger screening: Detected items of contraband/weapons from 3d scans of passengers with 99% accuracy using deep residual neural networks.
  * Web server: Built a web server from scratch in C hosting a database including creating linked list data-structures, database reading and writing, network communications and front end html.
  * [Fake news challenge](https://goddenrich.github.io/aml-fnc/index.html): Used various machine learning algorithms including random forest, SVM, KNN and LSTMs to predict whether a headline and news article body: agree, disagree, are neutral or unrelated.
@@ -55,26 +64,10 @@ Havelock Europa Plc: Associate, Operations
 
 ## Technical Skills
 
- * Languages: Python, C, C++, SQL
- * Technologies: Tensorflow, Theano, Hadoop, Spark, Linux, AWS, Google Cloud
-
-## I have taken the following online classes
-
-* Stanford Uiversity:
-  * Algorithms Design and Analysis I
-  * Machine Learning
-* University of Toronto:
-  * Neural Networks for machine learning
-* University of Washington:
-  * Introduction to Data Science
-  * Machine learning specialisation
-  * Computational Neuroscience
-  * High performance Scientific Computing
-* Duke University:
-  * Data analysis and statistical inference
-  * The brain and space
+ * Languages: Golang, Python, C, C++, SQL
+ * Technologies: Kubernetes, Containers, GCP, AWS, Linux, Tensorflow, Theano, Hadoop, Spark
 
 ---
 ## Other things
 
-I dance salsa, bachata, kizomba and brazilian zouk. I am an artist particularly figure drawing and painting and very occasionally dust off my saxophone and clarinet.
+I dance salsa, bachata, kizomba and brazilian zouk. I have recently started climbing or more acurately falling from about 4m. I am an artist particularly figure drawing and painting and very occasionally dust off my saxophone and clarinet.
